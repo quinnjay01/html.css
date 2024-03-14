@@ -1,0 +1,19 @@
+body {
+    background-color: burlywood;
+}
+
+about {
+    color: aquamarine;
+    font-size: 100px;
+}
+
+.nav {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+#box {
+    border: 20px;
+    padding: 25px;
+    margin: 25px;
+}
